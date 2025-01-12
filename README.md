@@ -61,10 +61,17 @@ yolov8-detection/
 
 
 ## Detection Results
-### Sample Results
-Here are some detection results from the trained YOLOv8 model:
+
+The trained YOLOv8 model was used to detect drones in test images. Below are some sample results:
+
+### Sample Detection 1
 ![Detection Result 1](./results/40ep-yolo-v8_model.jpg)
+
+### Sample Detection 2
 ![Detection Result 2](./results/40ep-yolo-v8_model-2.jpg)
+
+### Metrics
+- A detailed metrics report, including precision, recall, and confidence thresholds, is available in `./results/40ep-yolo-v8_model.csv`.
 
 
 ### CSV Metrics
