@@ -64,7 +64,7 @@ yolov8-detection/
 ### Sample Results
 Here are some detection results from the trained YOLOv8 model:
 ![Detection Result 1](./results/resized_40ep-yolo-v8-model.jpg)
-![Detection Result 2](./results/resized_40ep-yolo-v8-model-2.jpg)
+![Detection Result 2](./results/40ep-yolo-v8_model-2.jpg)
 
 
 ### CSV Metrics
