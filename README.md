@@ -68,7 +68,7 @@ The trained YOLOv8 model was used to detect drones in test images. Below are som
 ![Detection Result 1](./results/40ep-yolo-v8_model.jpg)
 
 ### Sample Detection 2
-![Detection Result 2](./results/40ep-yolo-v8_model-2.jpg)
+![Detection Result 2](./results/20ep-yolo-v8_model.jpg)
 
 ### Metrics
 - A detailed metrics report, including precision, recall, and confidence thresholds, is available in `./results/40ep-yolo-v8_model.csv`.
