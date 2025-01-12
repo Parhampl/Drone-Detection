@@ -1,5 +1,5 @@
 
-# YOLOv8 Object Detection Project
+# Guidance of Code in Persian
 
 This repository demonstrates the use of YOLOv8 for object detection tasks, focusing on detecting drones in image datasets.
 
@@ -54,3 +54,17 @@ yolov8-detection/
   ```bash
   python detect.py --weights models/best.pt --source datasets/<your_data>
   ```
+
+
+## Documentation
+- The `Guidance_of_Code_in_Persian.pdf` file in the `docs/` folder provides detailed guidance on the code in Persian.
+
+
+## Detection Results
+### Sample Results
+Here are some detection results from the trained YOLOv8 model:
+![Detection Result 1](resized_40ep-yolo-v8-model.jpg)
+![Detection Result 2](resized_40ep-yolo-v8-model-2.jpg)
+
+### CSV Metrics
+The detailed metrics for the model's performance can be found in the `results/` folder as `40ep-yolo-v8_model.csv`.
