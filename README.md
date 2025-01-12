@@ -63,8 +63,8 @@ yolov8-detection/
 ## Detection Results
 ### Sample Results
 Here are some detection results from the trained YOLOv8 model:
-![Detection Result 1](resized_40ep-yolo-v8-model.jpg)
-![Detection Result 2](resized_40ep-yolo-v8-model-2.jpg)
+![Detection Result 1](results/resized_40ep-yolo-v8-model.jpg)
+![Detection Result 2](results/resized_40ep-yolo-v8-model-2.jpg)
 
 ### CSV Metrics
 The detailed metrics for the model's performance can be found in the `results/` folder as `40ep-yolo-v8_model.csv`.
